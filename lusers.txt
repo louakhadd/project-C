@@ -1,0 +1,3 @@
+admin admin 1
+adr adherent 2
+kine kiné 3
